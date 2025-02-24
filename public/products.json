@@ -1,0 +1,165 @@
+[
+    {
+        "id": 1,
+        "name": "Chowking Pork Chao Fan",
+        "price": 69,
+        "image": "images/order/1.png",
+        "restaurant": "Chowking"
+    },
+    {
+        "id": 2,
+        "name": "Chowking Lauriat",
+        "price": 199,
+        "image": "images/order/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Crispy King Chicken",
+        "price": 45,
+        "image": "images/order/3.png"
+    },
+    {
+        "id": 4,
+        "name": "Greenwich Hawaaian Pizza",
+        "price": 250,
+        "image": "images/order/4.png"
+    },
+    {
+        "id": 5,
+        "name": "Jollibee Burger Steak",
+        "price": 60,
+        "image": "images/order/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Jollibee Spaghetti with Jolly Yumburger",
+        "price": 180,
+        "image": "images/order/6.png"
+    },
+    {
+        "id": 7,
+        "name": "Jollibee Sundae",
+        "price": 49,
+        "image": "images/order/7.png"
+    },
+    {
+        "id": 8,
+        "name": "Mang Inasal Paa",
+        "price": 199,
+        "image": "images/order/8.png"
+    },
+    {
+        "id": 9,
+        "name": "McDonalds Chicken Fillet",
+        "price": 78,
+        "image": "images/order/9.png"
+    },
+    {
+        "id": 10,
+        "name": "McDonalds McSpaghetti with McBurger",
+        "price": 130,
+        "image": "images/order/10.png"
+    },
+    {
+        "id": 11,
+        "name": "McDonalds Chicken Fillet Ala King",
+        "price": 99,
+        "image": "images/order/11.png"
+    },
+    {
+        "id": 12,
+        "name": "McDonalds Coke Float",
+        "price": 49,
+        "image": "images/order/12.png"
+    },
+    {
+        "id": 13,
+        "name": "Jollibee Apple Pie",
+        "price": 60,
+        "image": "images/order/applepie.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "Jollibee Cheesy Classic Jollyhotdog",
+        "price": 120,
+        "image": "images/order/cheesyclassicjollyhotdog.png"
+    },
+    {
+        "id": 15,
+        "name": "Jollibee Chilli Chicken",
+        "price": 130,
+        "image": "images/order/chillichicken.png"
+    },
+    {
+        "id": 16,
+        "name": "Jollibee Hot Fudge Sundae",
+        "price": 89,
+        "image": "images/order/hotfudgesundae.jpeg"
+    },
+    {
+        "id": 17,
+        "name": "Jollibee Bucket Meals",
+        "price": 350,
+        "image": "images/order/jollibeebucketmeals.png"
+    },
+    {
+        "id": 18,
+        "name": "Mang Inasal Palabok",
+        "price": 190,
+        "image": "images/order/manginasalpalabok.png"
+    },
+    {
+        "id": 19,
+        "name": "McDonalds Premium Roast Coffee",
+        "price": 70,
+        "image": "images/order/mccafepremiumroastcoffee.jpeg"
+    },
+    {
+        "id": 20,
+        "name": "McDonalds Cheesy Eggdesal",
+        "price": 60,
+        "image": "images/order/Mcdo Cheesy Eggdesal.png"
+    },
+    {
+        "id": 21,
+        "name": "McDonalds McFlurry",
+        "price": 70,
+        "image": "images/order/mcflurry.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Jollibee Palabok with Chicken",
+        "price": 190,
+        "image": "images/order/palabok chicken.png"
+    },
+    {
+        "id": 23,
+        "name": "Jollibee Palabok",
+        "price": 130,
+        "image": "images/order/palabok.png"
+    },
+    {
+        "id": 24,
+        "name": "Mang Inasal Palabok with Halo-Halo",
+        "price": 260,
+        "image": "images/order/palabokwithhalohalo.png"
+    },
+    {
+        "id": 25,
+        "name": "McDonalds Sausage McMuffin",
+        "price": 250,
+        "image": "images/order/Sausage McMuffin.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Jollibee Tuna Pie",
+        "price": 80,
+        "image": "images/order/tunapie.png"
+    },
+    {
+        "id": 27,
+        "name": "Jollibee Ube Apple Pie",
+        "price": 80,
+        "image": "images/order/ube apple pie.jpg"
+    }
+]
